@@ -1,3 +1,4 @@
-1. Instead of reading the events from Moralis, we will
-    1. Index them with TheGraph
-    2. Read from TheGraph# NextJS-NFT-Marketplace-TheGraph-FCC
+# NFT - Marketplace - Hosted on The Graph
+
+
+Front end of the NFT Marketplace Hosted on TheGraph. 
